@@ -1,50 +1,84 @@
-body{
+body {
     font-family: 'Oswald', sans-serif;
     margin: 0%;
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-h2{
-    font-size:40px;
+
+h2 {
+    font-size: 40px;
 }
-.name-highlight{
+
+.name-highlight {
     color: orange;
 }
-.half-width{
+
+.half-width {
     width: 40%;
     float: left;
     margin: 3%;
     padding: 2%;
 }
-.half-width img{
+
+.half-width img {
     width: 100%;
 }
-.top-banner{
-   background-image: url(file:///C:/Users/khairul/Downloads/240_F_138849092_v2nS6dYSzmYK9y6Yk76k0bNLRW1jr8qc.jpg);
+
+.top-banner {
+    background-image: url(file:///C:/Users/khairul/Downloads/240_F_138849092_v2nS6dYSzmYK9y6Yk76k0bNLRW1jr8qc.jpg);
     background-repeat: no-repeat;
     background-size: 500px;
+}
 
+section {
+    height: 500px;
+    padding-bottom: 100px;
 }
-section{
-height: 500px;
-padding-bottom: 100px;
-}
-.button{
+
+.button {
     text-decoration: none;
-    background-color:orange;
+    background-color: orange;
     padding: 10px 10px;
-    border-radius:7px;
+    border-radius: 7px;
     color: white;
     font-weight: 700;
 }
-.low-banner{
+
+.low-banner {
     background-image: url(file:///C:/Users/khairul/Downloads/240_F_138849092_v2nS6dYSzmYK9y6Yk76k0bNLRW1jr8qc.jpg);
-    background-size:500px;
-background-repeat: no-repeat;
-background-position: right;
-background-
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.hadis {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    margin: 2%;
 
 
+}
 
+.second {
+    background-image: url(file:///C:/Users/khairul/Downloads/circle-cropped__3_-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: left 450px;
+
+}
+#hf{
+   border-left: solid 5px;
+ border-image: linear-gradient( lightsalmon,tomato);
+ border-image-slice: 1;
+}
+#hh{
+    border-left: solid 5px;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
