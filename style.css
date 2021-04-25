@@ -48,7 +48,7 @@ section {
 
 .low-banner {
     background-image: url(../photo/mandala-illustration_53876-81805.jpg );
-    background-size: 550px;
+    background-size: 500px;
     background-repeat: no-repeat;
     background-position: top right;
 
@@ -72,7 +72,7 @@ section {
 }
 #hf{
    border-left: solid 5px;
- border-image: linear-gradient( lightsalmon,tomato);
+ border-image: linear-gradient( rgb(255, 253, 122),tomato);
  border-image-slice: 1;
 }
 #hh{
