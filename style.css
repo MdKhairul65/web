@@ -27,9 +27,9 @@ h2 {
 }
 
 .top-banner {
-    background-image: url(file:///C:/Users/khairul/Downloads/240_F_138849092_v2nS6dYSzmYK9y6Yk76k0bNLRW1jr8qc.jpg);
+    background-image: url(../photo/mandala-illustration_53876-81805.jpg);
     background-repeat: no-repeat;
-    background-size: 500px;
+    background-size: 550px;
 }
 
 section {
@@ -47,10 +47,11 @@ section {
 }
 
 .low-banner {
-    background-image: url(file:///C:/Users/khairul/Downloads/240_F_138849092_v2nS6dYSzmYK9y6Yk76k0bNLRW1jr8qc.jpg);
-    background-size: 500px;
+    background-image: url(../photo/mandala-illustration_53876-81805.jpg );
+    background-size: 550px;
     background-repeat: no-repeat;
     background-position: top right;
+
 }
 
 .hadis {
